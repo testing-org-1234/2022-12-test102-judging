@@ -66,7 +66,7 @@ Manual Review
 Source: https://github.com/testing-org-1234/2022-12-test102-judging/issues/4 
 
 ## Found by 
-test, rcstanciu
+rcstanciu, test
 
 ## Summary
 
